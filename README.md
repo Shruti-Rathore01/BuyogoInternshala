@@ -531,7 +531,3 @@ Given more time, I would implement:
 This is an assignment project for Internshala Backend Intern position.
 
 ---
-
-## Contact
-
-For any questions or clarifications, please contact the developer.
